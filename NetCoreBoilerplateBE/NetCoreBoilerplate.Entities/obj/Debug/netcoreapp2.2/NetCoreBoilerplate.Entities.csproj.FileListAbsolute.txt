@@ -1,0 +1,9 @@
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplate.API\NetCoreBoilerplate.Entities\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.deps.json
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplate.API\NetCoreBoilerplate.Entities\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.dll
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplate.API\NetCoreBoilerplate.Entities\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.csprojAssemblyReference.cache
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplate.API\NetCoreBoilerplate.Entities\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplate.API\NetCoreBoilerplate.Entities\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.AssemblyInfoInputs.cache
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplate.API\NetCoreBoilerplate.Entities\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.AssemblyInfo.cs
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplate.API\NetCoreBoilerplate.Entities\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.pdb
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplate.API\NetCoreBoilerplate.Entities\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.dll
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplate.API\NetCoreBoilerplate.Entities\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.pdb
