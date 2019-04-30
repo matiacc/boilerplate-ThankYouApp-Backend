@@ -2881,6 +2881,15 @@
           "lib/netstandard1.3/Newtonsoft.Json.Bson.dll": {}
         }
       },
+      "NLog/4.6.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NLog.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {}
+        }
+      },
       "NuGet.Frameworks/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -4745,6 +4754,20 @@
         },
         "runtime": {
           "bin/placeholder/NetCoreBoilerplate.Entities.dll": {}
+        }
+      },
+      "NetCoreBoilerplate.Logger/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "NLog": "4.6.2",
+          "NetCoreBoilerplate.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NetCoreBoilerplate.Logger.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NetCoreBoilerplate.Logger.dll": {}
         }
       },
       "NetCoreBoilerplate.Repository/1.0.0": {
@@ -8120,6 +8143,39 @@
         "lib/netstandard1.3/Newtonsoft.Json.Bson.xml",
         "newtonsoft.json.bson.1.0.1.nupkg.sha512",
         "newtonsoft.json.bson.nuspec"
+      ]
+    },
+    "NLog/4.6.2": {
+      "sha512": "HWgFhL87DCGtklqOf0LHDLItl/hQLxpQSV/PTzLm6UXrJr4dfUcDhQmzM5tFIxU38u0Jake06kspXQqTA80lKA==",
+      "type": "package",
+      "path": "nlog/4.6.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid44/NLog.dll",
+        "lib/monoandroid44/NLog.xml",
+        "lib/net35/NLog.dll",
+        "lib/net35/NLog.xml",
+        "lib/net40-client/NLog.dll",
+        "lib/net40-client/NLog.xml",
+        "lib/net45/NLog.dll",
+        "lib/net45/NLog.xml",
+        "lib/netstandard1.3/NLog.dll",
+        "lib/netstandard1.3/NLog.xml",
+        "lib/netstandard1.5/NLog.dll",
+        "lib/netstandard1.5/NLog.xml",
+        "lib/netstandard2.0/NLog.dll",
+        "lib/netstandard2.0/NLog.xml",
+        "lib/sl4/NLog.dll",
+        "lib/sl4/NLog.xml",
+        "lib/sl5/NLog.dll",
+        "lib/sl5/NLog.xml",
+        "lib/wp8/NLog.dll",
+        "lib/wp8/NLog.xml",
+        "lib/xamarinios10/NLog.dll",
+        "lib/xamarinios10/NLog.xml",
+        "nlog.4.6.2.nupkg.sha512",
+        "nlog.nuspec"
       ]
     },
     "NuGet.Frameworks/4.7.0": {
@@ -12972,6 +13028,11 @@
       "path": "../NetCoreBoilerplate.Entities/NetCoreBoilerplate.Entities.csproj",
       "msbuildProject": "../NetCoreBoilerplate.Entities/NetCoreBoilerplate.Entities.csproj"
     },
+    "NetCoreBoilerplate.Logger/1.0.0": {
+      "type": "project",
+      "path": "../NetCoreBoilerplate.LoggerService/NetCoreBoilerplate.Logger.csproj",
+      "msbuildProject": "../NetCoreBoilerplate.LoggerService/NetCoreBoilerplate.Logger.csproj"
+    },
     "NetCoreBoilerplate.Repository/1.0.0": {
       "type": "project",
       "path": "../NetCoreBoilerplate.Repository/NetCoreBoilerplate.Repository.csproj",
@@ -12985,6 +13046,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.2.4",
       "Microsoft.NETCore.App >= 2.2.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.3",
+      "NetCoreBoilerplate.Logger >= 1.0.0",
       "NetCoreBoilerplate.Repository >= 1.0.0"
     ]
   },
@@ -13018,6 +13080,9 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
+            "C:\\Users\\Mati\\Documents\\GitHub\\NetBoilerplate\\Boilerplate-ThankYouApp\\NetCoreBoilerplateBE\\NetCoreBoilerplate.LoggerService\\NetCoreBoilerplate.Logger.csproj": {
+              "projectPath": "C:\\Users\\Mati\\Documents\\GitHub\\NetBoilerplate\\Boilerplate-ThankYouApp\\NetCoreBoilerplateBE\\NetCoreBoilerplate.LoggerService\\NetCoreBoilerplate.Logger.csproj"
+            },
             "C:\\Users\\Mati\\Documents\\GitHub\\NetBoilerplate\\Boilerplate-ThankYouApp\\NetCoreBoilerplateBE\\NetCoreBoilerplate.Repository\\NetCoreBoilerplate.Repository.csproj": {
               "projectPath": "C:\\Users\\Mati\\Documents\\GitHub\\NetBoilerplate\\Boilerplate-ThankYouApp\\NetCoreBoilerplateBE\\NetCoreBoilerplate.Repository\\NetCoreBoilerplate.Repository.csproj"
             }

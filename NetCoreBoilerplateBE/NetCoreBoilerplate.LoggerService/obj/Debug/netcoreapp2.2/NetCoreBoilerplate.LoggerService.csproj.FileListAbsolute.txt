@@ -1,0 +1,14 @@
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.LoggerService\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.LoggerService.deps.json
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.LoggerService\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.LoggerService.dll
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.LoggerService\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Contracts.dll
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.LoggerService\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.dll
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.LoggerService\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Contracts.pdb
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.LoggerService\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.pdb
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.LoggerService\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.LoggerService.csprojAssemblyReference.cache
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.LoggerService\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.LoggerService\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.LoggerService.AssemblyInfoInputs.cache
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.LoggerService\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.LoggerService.AssemblyInfo.cs
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.LoggerService\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.LoggerService.csproj.CopyComplete
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.LoggerService\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.LoggerService.pdb
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.LoggerService\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.LoggerService.dll
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.LoggerService\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.LoggerService.pdb

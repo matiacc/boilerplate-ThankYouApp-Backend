@@ -10,8 +10,8 @@ namespace NetCoreBoilerplate.Entities
         {
         }
 
-        public DbSet<Message> Messages { get; set; }
-        public DbSet<MessageType> MessageTypes { get; set; }
-        public DbSet<User> Users { get; set; }
+        public DbSet<Message> Message { get; set; }
+        public DbSet<MessageType> MessageType { get; set; }
+        public DbSet<User> User { get; set; }
     }
 }

@@ -10,3 +10,15 @@ C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoi
 C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplate.API\NetCoreBoilerplate.Contracts\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Contracts.csproj.CopyComplete
 C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplate.API\NetCoreBoilerplate.Contracts\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Contracts.dll
 C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplate.API\NetCoreBoilerplate.Contracts\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Contracts.pdb
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Contracts\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Contracts.deps.json
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Contracts\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Contracts.dll
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Contracts\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Contracts.pdb
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Contracts\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.dll
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Contracts\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.pdb
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Contracts\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Contracts.csprojAssemblyReference.cache
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Contracts\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Contracts\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Contracts.AssemblyInfoInputs.cache
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Contracts\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Contracts.AssemblyInfo.cs
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Contracts\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Contracts.csproj.CopyComplete
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Contracts\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Contracts.dll
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Contracts\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Contracts.pdb

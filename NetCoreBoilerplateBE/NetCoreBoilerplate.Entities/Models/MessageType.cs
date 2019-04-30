@@ -3,11 +3,13 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace NetCoreBoilerplate.Entities.Models
 {
+    [Table("MessageType")]
     public class MessageType
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public long MessageTypeId { get; set; }
+        [Column("MessageTypeId")]
+        public long Id { get; set; }
 
         public string Name { get; set; }
     }

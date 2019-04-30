@@ -12,3 +12,17 @@ C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoi
 C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplate.API\NetCoreBoilerplate.Repository\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Repository.csproj.CopyComplete
 C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplate.API\NetCoreBoilerplate.Repository\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Repository.dll
 C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplate.API\NetCoreBoilerplate.Repository\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Repository.pdb
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Repository\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Repository.deps.json
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Repository\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Repository.dll
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Repository\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Repository.pdb
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Repository\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Contracts.dll
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Repository\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.dll
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Repository\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Contracts.pdb
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Repository\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.pdb
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Repository\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Repository.csprojAssemblyReference.cache
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Repository\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Repository\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Repository.AssemblyInfoInputs.cache
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Repository\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Repository.AssemblyInfo.cs
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Repository\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Repository.csproj.CopyComplete
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Repository\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Repository.dll
+C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Repository\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Repository.pdb

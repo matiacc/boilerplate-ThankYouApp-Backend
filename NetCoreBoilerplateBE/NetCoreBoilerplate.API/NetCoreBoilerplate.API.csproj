@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\NetCoreBoilerplate.LoggerService\NetCoreBoilerplate.Logger.csproj" />
     <ProjectReference Include="..\NetCoreBoilerplate.Repository\NetCoreBoilerplate.Repository.csproj" />
   </ItemGroup>
 
