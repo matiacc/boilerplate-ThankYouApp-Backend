@@ -18,7 +18,14 @@ namespace NetCoreBoilerplate.API.Controllers
         {
             _repoWrapper = repoWrapper;
         }
-        // GET: api/Message
+
+        /// <summary>
+        /// The get messages controller
+        /// </summary>
+        /// <remarks>
+        /// A remakr placeholder, extra info
+        /// </remarks>
+        /// <returns>returns the messages</returns>
         [HttpGet]
         public IEnumerable<string> Get()
         {
@@ -27,26 +34,52 @@ namespace NetCoreBoilerplate.API.Controllers
             return new string[] { "value1", "value2" };
         }
 
-        // GET: api/Message/5
+        /// <summary>
+        /// The get message controller
+        /// </summary>
+        /// <remarks>
+        /// A remakr placeholder, extra info
+        /// </remarks>
+        /// <param name="id">the id of message</param>
+        /// <returns>it returns the message</returns>
         [HttpGet("{id}", Name = "Get")]
         public string Get(int id)
         {
             return "value";
         }
 
-        // POST: api/Message
+        /// <summary>
+        /// The Post message Controller
+        /// </summary>
+        /// <remarks>
+        /// A remakr placeholder, extra info
+        /// </remarks>
+        /// <param name="value"></param>
         [HttpPost]
         public void Post([FromBody] string value)
         {
         }
 
-        // PUT: api/Message/5
+        /// <summary>
+        /// The Put message controller
+        /// </summary>
+        /// <remarks>
+        /// A remakr placeholder, extra info
+        /// </remarks>
+        /// <param name="id">the id</param>
+        /// <param name="value">the body value</param>
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] string value)
         {
         }
 
-        // DELETE: api/ApiWithActions/5
+        /// <summary>
+        /// The Delete message controller
+        /// </summary>
+        /// <remarks>
+        /// A remakr placeholder, extra info
+        /// </remarks>
+        /// <param name="id">the id</param>
         [HttpDelete("{id}")]
         public void Delete(int id)
         {

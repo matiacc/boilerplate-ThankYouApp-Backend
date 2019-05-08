@@ -16,3 +16,12 @@ C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoi
 C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Entities\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.AssemblyInfo.cs
 C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Entities\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.dll
 C:\Users\Mati\Documents\GitHub\NetBoilerplate\Boilerplate-ThankYouApp\NetCoreBoilerplateBE\NetCoreBoilerplate.Entities\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.pdb
+C:\Users\jrdga\OneDrive\Documentos\GitHub\boilerplate-ThankYouApp-Backend\NetCoreBoilerplateBE\NetCoreBoilerplate.Entities\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.deps.json
+C:\Users\jrdga\OneDrive\Documentos\GitHub\boilerplate-ThankYouApp-Backend\NetCoreBoilerplateBE\NetCoreBoilerplate.Entities\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.dll
+C:\Users\jrdga\OneDrive\Documentos\GitHub\boilerplate-ThankYouApp-Backend\NetCoreBoilerplateBE\NetCoreBoilerplate.Entities\bin\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.pdb
+C:\Users\jrdga\OneDrive\Documentos\GitHub\boilerplate-ThankYouApp-Backend\NetCoreBoilerplateBE\NetCoreBoilerplate.Entities\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.csproj.CoreCompileInputs.cache
+C:\Users\jrdga\OneDrive\Documentos\GitHub\boilerplate-ThankYouApp-Backend\NetCoreBoilerplateBE\NetCoreBoilerplate.Entities\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.AssemblyInfoInputs.cache
+C:\Users\jrdga\OneDrive\Documentos\GitHub\boilerplate-ThankYouApp-Backend\NetCoreBoilerplateBE\NetCoreBoilerplate.Entities\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.AssemblyInfo.cs
+C:\Users\jrdga\OneDrive\Documentos\GitHub\boilerplate-ThankYouApp-Backend\NetCoreBoilerplateBE\NetCoreBoilerplate.Entities\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.dll
+C:\Users\jrdga\OneDrive\Documentos\GitHub\boilerplate-ThankYouApp-Backend\NetCoreBoilerplateBE\NetCoreBoilerplate.Entities\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.pdb
+C:\Users\jrdga\OneDrive\Documentos\GitHub\boilerplate-ThankYouApp-Backend\NetCoreBoilerplateBE\NetCoreBoilerplate.Entities\obj\Debug\netcoreapp2.2\NetCoreBoilerplate.Entities.csprojAssemblyReference.cache
