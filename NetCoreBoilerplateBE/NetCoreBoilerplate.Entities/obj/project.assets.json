@@ -2010,7 +2010,7 @@
       ]
     },
     "System.Linq.Queryable/4.0.1": {
-      "sha512": "/0CqKN2T2Lqgbr7SMRiwnt5cXyw+/M0aCjgGl/YY+8fXAAhpHhxX2XIOeijO6hmHzU3oRkoGfFNb/Sb4m3/4CA==",
+      "sha512": "Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
       "type": "package",
       "path": "system.linq.queryable/4.0.1",
       "files": [
@@ -2965,23 +2965,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mati\\.nuget\\packages\\": {},
+    "C:\\Users\\jrdga\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mati\\Documents\\GitHub\\NetBoilerplate\\Boilerplate-ThankYouApp\\NetCoreBoilerplateBE\\NetCoreBoilerplate.Entities\\NetCoreBoilerplate.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\jrdga\\OneDrive\\Documentos\\GitHub\\boilerplate-ThankYouApp-Backend\\NetCoreBoilerplateBE\\NetCoreBoilerplate.Entities\\NetCoreBoilerplate.Entities.csproj",
       "projectName": "NetCoreBoilerplate.Entities",
-      "projectPath": "C:\\Users\\Mati\\Documents\\GitHub\\NetBoilerplate\\Boilerplate-ThankYouApp\\NetCoreBoilerplateBE\\NetCoreBoilerplate.Entities\\NetCoreBoilerplate.Entities.csproj",
-      "packagesPath": "C:\\Users\\Mati\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mati\\Documents\\GitHub\\NetBoilerplate\\Boilerplate-ThankYouApp\\NetCoreBoilerplateBE\\NetCoreBoilerplate.Entities\\obj\\",
+      "projectPath": "C:\\Users\\jrdga\\OneDrive\\Documentos\\GitHub\\boilerplate-ThankYouApp-Backend\\NetCoreBoilerplateBE\\NetCoreBoilerplate.Entities\\NetCoreBoilerplate.Entities.csproj",
+      "packagesPath": "C:\\Users\\jrdga\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jrdga\\OneDrive\\Documentos\\GitHub\\boilerplate-ThankYouApp-Backend\\NetCoreBoilerplateBE\\NetCoreBoilerplate.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jrdga\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

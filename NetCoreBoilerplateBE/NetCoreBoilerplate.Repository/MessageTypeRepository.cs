@@ -40,5 +40,10 @@ namespace NetCoreBoilerplate.Repository
             Create(thanksMessage);
             Save();
         }
+
+        public void CreateThanksMessage(MessageType thanksMessage)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }
